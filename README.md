@@ -24,7 +24,8 @@ Una vez haya iniciado la aplicacion navegue a la siguiente rura: http://localhos
 OPERADORES, RECARGAS, USUARIOS 
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+<img width="795" height="433" alt="image" src="https://github.com/user-attachments/assets/a46a7579-dc10-4e2a-8bf6-d3205dd8a25d" />
+
 
 ```bash
 ng generate --help
