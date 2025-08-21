@@ -57,15 +57,10 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 
 
 
-## Running end-to-end tests
+## Diagrama de Casos de Uso
 
-For end-to-end (e2e) testing, run:
+<img width="5457" height="834" alt="deepseek_mermaid_20250821_715c4a" src="https://github.com/user-attachments/assets/4f2cc1a5-53e8-46f7-8adf-ac8dbc888e25" />
 
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
 
