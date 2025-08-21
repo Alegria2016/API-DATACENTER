@@ -49,11 +49,11 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 (15000.00, '2024-01-16 09:15:00', '3205551234', 'EXITOSA', 2, 1);
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## MODELO ENTIDAD RELACION (MER)
+
+:
 
 ```bash
 ng test
