@@ -1,6 +1,6 @@
 # API SPROMG BOOT.
 
-Aplicacíon desarrollada en Spring Boot version 3.5.4. permite consultar los operadores y crear recargas para diferentes operadores de Telefonía.
+Aplicacíon desarrollada en Spring Boot version 3.5.4. y H2 como motor de base de datos, esta apliación permite consultar los operadores y crear recargas para diferentes operadores de Telefonía.
 Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria OpenAPI . <img width="1344" height="672" alt="image" src="https://github.com/user-attachments/assets/3054a6b9-fe15-4c53-bf3e-cd160b3ef9ab" />
 
 
@@ -8,13 +8,13 @@ Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria 
 
 ## INICIAR SERVICIO EN AMBIENTE DE DESARROLLO.
 
-Clonar repositorio y para iniciar el proyecto ejecutar el siguiente comando en la consola:
+Clonar repositorio y para iniciar el proyecto abrir con el IDE Intellij IDEA de preferencia, luego compilar proyecto en iniciar clase principal:
 
 ```bash
-ng serve
+ApiApplication
 ```
 
-Una vez que el servidor esté en funcionamiento, abra su navegador y navegue a http://localhost:4200/. La aplicación se recargará automáticamente cada vez que modifique alguno de los archivos fuente.
+Una vez que el servidor esté en funcionamiento, abra su navegador y navegue a http://localhost:8080/swagger-ui/index.html#/. La aplicación se recargará automáticamente cada vez que modifique alguno de los archivos fuente.
 
 ## Code scaffolding
 
