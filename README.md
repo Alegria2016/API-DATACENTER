@@ -24,6 +24,8 @@ Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria 
 Clonar repositorio y para iniciar el proyecto abrir con el IDE Intellij IDEA de preferencia, luego compilar proyecto en iniciar clase principal:
 
 ```bash
+git clone https://github.com/Alegria2016/API-DATACENTER.git
+clase principal: 
 ApiApplication
 ```
 
