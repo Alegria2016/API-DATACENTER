@@ -1,7 +1,8 @@
-# APP ANGULAR 19
+# API SPROMG BOOT.
 
-Aplicacíon desarrollada en Angular version 19.1.4. permite crear recargas para diferentes operadores de Telefonía.
-Acontinuacion se muestra la interfaz grafica de usuarios. <img width="1349" height="670" alt="image" src="https://github.com/user-attachments/assets/42f05295-61f2-41f4-9a81-dee09ea761f2" />
+Aplicacíon desarrollada en Spring Boot version 3.5.4. permite consultar los operadores y crear recargas para diferentes operadores de Telefonía.
+Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria OpenAPI . <img width="1344" height="672" alt="image" src="https://github.com/user-attachments/assets/3054a6b9-fe15-4c53-bf3e-cd160b3ef9ab" />
+
 
 
 
