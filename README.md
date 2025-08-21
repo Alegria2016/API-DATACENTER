@@ -53,7 +53,8 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 
 ## MODELO ENTIDAD RELACION (MER)
 
-<img width="756" height="4851" alt="deepseek_mermaid_20250820_6645b0 (1)" src="https://github.com/user-attachments/assets/551069fa-0f45-4e37-923c-b1b616ae8bec" />
+<img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44" src="https://github.com/user-attachments/assets/2c6eb133-df39-46e2-b69e-856a5719c605" />
+
 
 
 ## Running end-to-end tests
