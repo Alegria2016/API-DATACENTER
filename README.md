@@ -67,4 +67,4 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 <img width="4323" height="2943" alt="deepseek_mermaid_20250821_2efa31" src="https://github.com/user-attachments/assets/19bb9c67-bfc3-44d8-87b9-8a933d22ca98" />
 
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
