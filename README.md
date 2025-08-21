@@ -66,9 +66,10 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 
 
 
-## MODELO ENTIDAD RELACION (MER)
+## Diagrama Relacional (Modelo de Datos)
 
-<img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44" src="https://github.com/user-attachments/assets/2c6eb133-df39-46e2-b69e-856a5719c605" />
+<img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44 (1)" src="https://github.com/user-attachments/assets/d3050578-5f28-47e3-912d-21774a79ed63" />
+
 
 ## Diagrama de Clases
 
