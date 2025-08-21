@@ -31,12 +31,25 @@ OPERADORES, RECARGAS y USUARIOS
 ng generate --help
 ```
 
-## Building
+## INSERDAR DATOS DE INICIO
 
-To build the project run:
+Para relizar insercion de datos iniciales revisar archivo data.sql en la carpeta resources encontrara los inserts:
 
 ```bash
-ng build
+-- Insertar datos de prueba
+INSERT INTO operadores (nombre, comision) VALUES
+('Tigo', 2.50),
+('Movistar', 3.00),
+('Comcel', 2.00);
+
+INSERT INTO usuarios (username, password, nombre, rol) VALUES
+('admin', 'admin123', 'Administrador', 'ADMIN'),
+('vendedor1', 'vend123', 'Juan Pérez', 'VENDEDOR');
+
+INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operador_id) VALUES
+(10000.00, '2024-01-15 10:30:00', '3001234567', 'EXITOSA', 2, 1),
+(20000.00, '2024-01-15 11:45:00', '3109876543', 'EXITOSA', 2, 2),
+(15000.00, '2024-01-16 09:15:00', '3205551234', 'EXITOSA', 2, 1);
 ```
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
