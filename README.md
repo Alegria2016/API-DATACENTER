@@ -53,11 +53,8 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 
 ## MODELO ENTIDAD RELACION (MER)
 
-:
+<img width="756" height="4851" alt="deepseek_mermaid_20250820_6645b0 (1)" src="https://github.com/user-attachments/assets/551069fa-0f45-4e37-923c-b1b616ae8bec" />
 
-```bash
-ng test
-```
 
 ## Running end-to-end tests
 
