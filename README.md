@@ -55,6 +55,10 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 
 <img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44" src="https://github.com/user-attachments/assets/2c6eb133-df39-46e2-b69e-856a5719c605" />
 
+## Diagrama de Clases
+
+<img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44" src="https://github.com/user-attachments/assets/2c6eb133-df39-46e2-b69e-856a5719c605" />
+
 
 
 ## Diagrama de Casos de Uso
@@ -64,7 +68,8 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 
 ## Diagrama de Secuencia (Venta de Recarga)
 
-<img width="4323" height="2943" alt="deepseek_mermaid_20250821_2efa31" src="https://github.com/user-attachments/assets/19bb9c67-bfc3-44d8-87b9-8a933d22ca98" />
+<img width="689" height="3888" alt="deepseek_mermaid_20250821_860649" src="https://github.com/user-attachments/assets/79e713a7-f7f1-4b5e-a83a-a87d81fd355a" />
+
 
 
 
