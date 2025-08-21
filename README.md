@@ -21,7 +21,7 @@ Una vez que el servidor esté en funcionamiento, abra su navegador y navegue a h
 Una vez haya iniciado la aplicacion navegue a la siguiente rura: http://localhost:8080/h2-console/login.jsp del navegador para comprobar que se haya creado la base de datos con las respectivas tablas:
 
 ```bash
-OPERADORES, RECARGAS, USUARIOS 
+OPERADORES, RECARGAS y USUARIOS 
 ```
 
 <img width="795" height="433" alt="image" src="https://github.com/user-attachments/assets/a46a7579-dc10-4e2a-8bf6-d3205dd8a25d" />
