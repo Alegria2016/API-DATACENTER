@@ -1,7 +1,20 @@
 # API SPRING BOOT.
 
 Aplicacíon desarrollada en Spring Boot version 3.5.4. y H2 como motor de base de datos, esta apliación permite consultar los operadores y crear recargas para diferentes operadores de Telefonía.
-Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria OpenAPI . <img width="1344" height="672" alt="image" src="https://github.com/user-attachments/assets/3054a6b9-fe15-4c53-bf3e-cd160b3ef9ab" />
+Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria OpenAPI . <img width="1330" height="673" alt="image" src="https://github.com/user-attachments/assets/e1a350c1-3d54-4dc4-a46a-b39dd8bb95c9" />
+
+<img width="1315" height="669" alt="image" src="https://github.com/user-attachments/assets/270850c2-5371-4b79-9d84-5b3c6e6cfd7b" />
+
+<img width="1302" height="657" alt="image" src="https://github.com/user-attachments/assets/32fb2f9a-2d90-49a2-8dd8-ee4382b53455" />
+
+<img width="1297" height="651" alt="image" src="https://github.com/user-attachments/assets/4f01f0f6-9a09-47e7-9eff-56e89d2484c5" />
+
+<img width="1284" height="550" alt="image" src="https://github.com/user-attachments/assets/2c853967-e991-48b7-8a34-a90d4a0f8715" />
+
+
+
+
+
 
 
 
