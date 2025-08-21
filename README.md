@@ -71,20 +71,23 @@ INSERT INTO recargas (valor, fecha, numero_telefono, estado, usuario_id, operado
 <img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44 (1)" src="https://github.com/user-attachments/assets/d3050578-5f28-47e3-912d-21774a79ed63" />
 
 
-## Diagrama de Clases
-
-<img width="756" height="4851" alt="deepseek_mermaid_20250821_c6ca44" src="https://github.com/user-attachments/assets/2c6eb133-df39-46e2-b69e-856a5719c605" />
-
-
-
 ## Diagrama de Casos de Uso
 
-<img width="5457" height="834" alt="deepseek_mermaid_20250821_715c4a" src="https://github.com/user-attachments/assets/4f2cc1a5-53e8-46f7-8adf-ac8dbc888e25" />
+<img width="5457" height="834" alt="deepseek_mermaid_20250821_715c4a (1)" src="https://github.com/user-attachments/assets/d0d93e5c-1b9d-42ca-93d8-2dfb5949f599" />
+
+
 
 
 ## Diagrama de Secuencia (Venta de Recarga)
 
-<img width="689" height="3888" alt="deepseek_mermaid_20250821_860649" src="https://github.com/user-attachments/assets/79e713a7-f7f1-4b5e-a83a-a87d81fd355a" />
+<img width="4323" height="2943" alt="deepseek_mermaid_20250821_2efa31 (1)" src="https://github.com/user-attachments/assets/73149679-c7d1-49f9-954e-bd16fc220f83" />
+
+
+
+## Diagrama de Clases
+
+<img width="689" height="3888" alt="deepseek_mermaid_20250821_860649 (1)" src="https://github.com/user-attachments/assets/f9a86a05-9769-4a69-b906-c84448363654" />
+
 
 
 
