@@ -1,4 +1,4 @@
-# API SPROMG BOOT.
+# API SPRING BOOT.
 
 Aplicacíon desarrollada en Spring Boot version 3.5.4. y H2 como motor de base de datos, esta apliación permite consultar los operadores y crear recargas para diferentes operadores de Telefonía.
 Acontinuacion se muestra la documentacion de la API haciendo uso de la libreria OpenAPI . <img width="1344" height="672" alt="image" src="https://github.com/user-attachments/assets/3054a6b9-fe15-4c53-bf3e-cd160b3ef9ab" />
