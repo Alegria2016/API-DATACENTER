@@ -14,14 +14,14 @@ Clonar repositorio y para iniciar el proyecto abrir con el IDE Intellij IDEA de 
 ApiApplication
 ```
 
-Una vez que el servidor esté en funcionamiento, abra su navegador y navegue a http://localhost:8080/swagger-ui/index.html#/. La aplicación se recargará automáticamente cada vez que modifique alguno de los archivos fuente.
+Una vez que el servidor esté en funcionamiento, abra su navegador y navegue a http://localhost:8080/swagger-ui/index.html#/. 
 
-## Code scaffolding
+## BASE DE DATOS H2
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Una vez haya iniciado la aplicacion navegue a la siguiente rura: http://localhost:8080/h2-console/login.jsp del navegador para comprobar que se haya creado la base de datos con las respectivas tablas:
 
 ```bash
-ng generate component component-name
+OPERADORES, RECARGAS, USUARIOS 
 ```
 
 For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
