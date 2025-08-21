@@ -31,7 +31,7 @@ OPERADORES, RECARGAS y USUARIOS
 ng generate --help
 ```
 
-## INSERDAR DATOS DE INICIO
+## INSERTAR DATOS DE INICIO
 
 Para relizar insercion de datos iniciales revisar archivo data.sql en la carpeta resources encontrara los inserts:
 
